@@ -1,4 +1,4 @@
-import "../styles/about.css";
+import "../styles/About.css";
 import { motion } from "framer-motion";
 import aboutImage from "../assets/profile-image.jpeg";
 function About() {

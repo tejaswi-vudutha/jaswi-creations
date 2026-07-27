@@ -1,4 +1,4 @@
-import "../styles/occasions.css";
+import "../styles/Occasions.css";
 import {
   FaBirthdayCake,
   FaHeart,

@@ -2,7 +2,7 @@ import { useState } from "react";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
-import "../styles/gallery.css";
+import "../styles/Gallery.css";
 
 import img1 from "../assets/fabric-painting.jpeg";
 import img2 from "../assets/string-art-1.jpeg";

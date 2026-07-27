@@ -1,6 +1,6 @@
 import ServiceCard from "./ServiceCard";
 import services from "../data/services";
-import "../styles/services.css";
+import "../styles/Services.css";
 
 
 function Services() {

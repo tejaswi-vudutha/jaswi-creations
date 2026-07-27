@@ -1,5 +1,5 @@
 import qrCode from "../assets/upi-qr.jpeg";
-import "../styles/payments.css";
+import "../styles/Payments.css";
 import { SiPhonepe, SiGooglepay, SiPaytm } from "react-icons/si";
 import { FaShieldAlt } from "react-icons/fa";
 

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { FaArrowUp } from "react-icons/fa";
-import "../styles/scrollTop.css";
+import "../styles/ScrollTop.css";
 
 function ScrollTop() {
   const [show, setShow] = useState(false);

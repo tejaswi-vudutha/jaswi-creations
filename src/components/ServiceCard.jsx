@@ -1,4 +1,4 @@
-import "../styles/services.css";
+import "../styles/Services.css";
 
 function ServiceCard({ service, reverse }) {
   return (
