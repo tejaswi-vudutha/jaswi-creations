@@ -1,4 +1,4 @@
-import "../styles/navbar.css";
+import "../styles/Navbar.css";
 import { Link } from "react-scroll";
 import { HiOutlineMenu, HiOutlineX } from "react-icons/hi";
 import { useState } from "react";
