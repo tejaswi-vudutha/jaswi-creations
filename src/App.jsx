@@ -6,7 +6,7 @@ import Gallery from "./components/Gallery";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Testimonials from "./components/Testimonials";
-import Faq from "./components/Faq";
+import FAQ from "./components/Faq";
 import WhatsAppButton from "./components/WhatsAppButton";
 import ScrollTop from "./components/ScrollTop";
 import WhyChoose from "./components/WhyChoose";
