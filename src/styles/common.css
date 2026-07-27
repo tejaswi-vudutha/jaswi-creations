@@ -1,0 +1,31 @@
+.primary-button{
+    padding:16px 34px;
+    border-radius:50px;
+    border:none;
+    background:#8B5E3C;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+    transition:.3s;
+    font-weight:600;
+}
+
+.primary-button:hover{
+    transform:translateY(-4px);
+    box-shadow:0 15px 30px rgba(139,94,60,.3);
+}
+
+.secondary-button{
+    padding:16px 34px;
+    border-radius:50px;
+    border:2px solid #8B5E3C;
+    background:transparent;
+    color:#8B5E3C;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.secondary-button:hover{
+    background:#8B5E3C;
+    color:white;
+}
