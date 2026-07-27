@@ -1,6 +1,7 @@
-import "../styles/faq.css";
+import "../styles/Faq.css";
 import { useState } from "react";
 import { FaChevronDown } from "react-icons/fa";
+
 
 const faqs = [
   {

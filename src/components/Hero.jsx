@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "../styles/hero.css";
+import "../styles/Hero.css";
 
 import stringArt from "../assets/string-art-2.jpeg";
 import fabricPainting from "../assets/fabric-painting.jpeg";

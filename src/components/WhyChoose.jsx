@@ -1,4 +1,4 @@
-import "../styles/whychoose.css";
+import "../styles/Whychoose.css";
 import {
   FaHeart,
   FaPalette,
